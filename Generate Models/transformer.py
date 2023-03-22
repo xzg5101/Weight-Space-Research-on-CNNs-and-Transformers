@@ -1,5 +1,5 @@
-# pytorch code
-# can be found at https://github.com/pytorch/examples/blob/main/word_language_model
+# pytorch code with minor twick
+# original code can be found at https://github.com/pytorch/examples/blob/main/word_language_model
 
 import math
 import torch
