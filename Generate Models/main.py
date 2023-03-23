@@ -1,4 +1,5 @@
-from transformer import TransformerModel
+from language_transformer import TransformerModel
+from transformer import Transformer
 import torch
 # TransformerModel(ntokens, args.emsize, args.nhead, args.nhid, args.nlayers, args.dropout).to(device)
 
